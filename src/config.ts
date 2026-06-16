@@ -50,8 +50,8 @@ export const navBarConfig: NavBarConfig = {
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
-			name: "代理",
-			url: "https://daili.x0v0.qzz.io/9cb05c62-343b-4cbc-b25b-80e385c4b832", // Internal links should not include the base path, as it is automatically added
+			name: "mail",
+			url: "https://mail.xiaoz.qzz.io", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
